@@ -4,7 +4,7 @@ A beautiful 3D layered cake visualization built with Three.js. This interactive 
 
 ## About
 
-I was working on a project and needed a 3D cake rendered in a canvas on the web. This is the result - a fully interactive, beautifully textured layered cake built with Three.js that can be embedded anywhere on the web.
+I was working on a project and needed a 3D cake rendered in a canvas on the web. This is the result, a fully interactive, an coloured layered cake built with Three.js that can be embedded anywhere on the web.
 
 ## Features
 
